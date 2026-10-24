@@ -12,12 +12,12 @@ tapeouts:
   project: raybox-zero wafer.space run 2 half height
   size: 1x0p5
   kind: digital
-  commit: f5bbcef7564e
+  commit: 4ab47b127e13
   commit_source: design_ref head recorded by the ws-run1/2 audit
   tag: wafer.space/ws-run2/AMM1
   branch: tapeout/wafer.space/ws-run2/AMM1
   page: https://wafer.space/ws-run2/
-generated: '2026-10-17T23:04:25Z'
+generated: '2026-10-24T08:07:42Z'
 tooling: https://github.com/wafer-space/wafer.space-bench
 index: https://wafer-space-bench.github.io
 branches:

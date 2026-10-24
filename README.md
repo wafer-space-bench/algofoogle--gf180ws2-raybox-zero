@@ -12,7 +12,7 @@ Part of the [wafer.space GF180 benchmark](https://wafer-space-bench.github.io): 
 
 | Org | Run | Slot | Project | Size | Commit | Tag / branch |
 |---|---|---|---|---|---|---|
-| wafer.space | [ws-run2](https://wafer.space/ws-run2/) | AMM1 | raybox-zero wafer.space run 2 half height | 1x0p5 | `f5bbcef7564e` | [`wafer.space/ws-run2/AMM1`](https://github.com/wafer-space-bench/algofoogle--gf180ws2-raybox-zero/tree/tapeout/wafer.space/ws-run2/AMM1) |
+| wafer.space | [ws-run2](https://wafer.space/ws-run2/) | AMM1 | raybox-zero wafer.space run 2 half height | 1x0p5 | `4ab47b127e13` | [`wafer.space/ws-run2/AMM1`](https://github.com/wafer-space-bench/algofoogle--gf180ws2-raybox-zero/tree/tapeout/wafer.space/ws-run2/AMM1) |
 
 ## Branches
 
